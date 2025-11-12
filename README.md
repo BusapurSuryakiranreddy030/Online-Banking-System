@@ -1,13 +1,15 @@
 Online Banking System
+
 A project based banking management system built using Java.
 This project allows users to create accounts, deposit/withdraw money, transfer funds, and view transaction history.
-Features:
-Create Account: You can open a new bank account by giving your name, account number, and initial balance.
-Deposit Money: Add money to your account easily.
-Withdraw Money: Take money out of your account (only if you have enough balance).
-Transfer Money: Send money from one account to another quickly.
-Transaction History: See all your past deposits, withdrawals, and transfers.
-Check Balance: View how much money you have in your account anytime.
+
+Features:                                                                                                                                                                                                            
+Create Account: You can open a new bank account by giving your name, account number, and initial balance.                                                                                                            
+Deposit Money: Add money to your account easily.                                                                                                                                                                     
+Withdraw Money: Take money out of your account.                                                                                                                                                                      
+Transfer Money: Send money from one account to another quickly.                                                                                                                                                      
+Transaction History: See all your past deposits, withdrawals, and transfers.                                                                                                                                         
+Check Balance: View how much money you have in your account anytime.                                                                                                                                                 
 Data Storage: All account details are stored in memory using a HashMap.
 
 Structure
